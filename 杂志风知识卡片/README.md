@@ -2,6 +2,6 @@
 X->@meng shao
 
 ## Description (描述):
-好看的知识卡片，样例如下
+好看的知识卡片，推荐使用Gemini和Claude，样例如下
 
 ![alt text](image.png)
