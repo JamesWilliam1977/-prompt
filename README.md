@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/awesome-prompt/stargazers"><img src="https://img.shields.io/github/stars/YOUR_USERNAME/awesome-prompt?style=social" alt="Stars"></a>
-  <a href="https://github.com/YOUR_USERNAME/awesome-prompt/network/members"><img src="https://img.shields.io/github/forks/YOUR_USERNAME/awesome-prompt?style=social" alt="Forks"></a>
+  <a href="https://github.com/NeekChaw/awesome-prompt/stargazers"><img src="https://img.shields.io/github/stars/NeekChaw/awesome-prompt?style=social" alt="Stars"></a>
+  <a href="https://github.com/NeekChaw/awesome-prompt/network/members"><img src="https://img.shields.io/github/forks/NeekChaw/awesome-prompt?style=social" alt="Forks"></a>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
   <img src="https://img.shields.io/badge/status-updating-green" alt="Status">
