@@ -1,4 +1,4 @@
-# Awesome Prompts - 高质量 AI 指令集
+# Awesome Prompts
 
 <div align="center">
 
