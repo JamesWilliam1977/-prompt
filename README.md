@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
   <img src="https://img.shields.io/badge/status-updating-green" alt="Status">
 </p>
+<div align="center">
+  <img src="image.png" width="250" alt="公众号二维码">
+  <p><strong>扫码关注我的公众号，获取更多 AI 前沿资讯与实践</strong></p>
+</div>
 
 ---
 
